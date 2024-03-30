@@ -113,6 +113,7 @@ img {
     padding-right: 15px;
     padding-left: 15px;
  }
+
 }
 
 @media screen and (min-width: 1440px){
@@ -123,15 +124,15 @@ img {
         padding: 30px;
     }
     .links p {
-        margin-bottom: 15px;
-        margin-top: 15px;
+        margin-bottom: 12.5px;
+        margin-top: 12.5px;
     }
     .links p a {
-        font-size: 14px;
-        padding: 23px 80px;
+        font-size: 12px;
+        padding: 18px 80px;
     }
     
     p {
-        font-size: 14px;
+        font-size: 12px;
     }
     }
